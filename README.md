@@ -1,4 +1,24 @@
-### Hi there 👋
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mark-maligalig/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mark8m&style=for-the-badge&color=blueviolet&base=0" alt=""/>
+</div>
+
+<div align="center">
+  <h1>Hey there! 👋 </h1>
+  <h3>I am Mark! <i>he/they</i></h3>
+</div>
+
+### 🧑‍💻 About Me:
+I am a Computer Science student at the University of Alberta!
+- :telescope: I work on various software development, as well as full-stack web development.
+
+- :seedling: Currently learning Machine Learning!
+
+- :zap: I am looking for 2024 internships in Software Development, Data Analysis, and Web Dev!
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-maligalig/) [![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maligali@ualberta.ca)
 
 <!--
 **mark8m/mark8m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +33,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
