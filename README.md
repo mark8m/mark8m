@@ -20,7 +20,7 @@ I am a Computer Science student at the University of Alberta!
 
 - :zap: I am looking for 2024 internships in Software Development, Data Analysis, and Web Dev!
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-maligalig/) [![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maligali@ualberta.ca)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-maligalig/) [![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maligali@ualberta.ca)
 
 - ✨ In a group of six, we created a _meal planning app_! You check the repo [here](https://github.com/CMPUT301F22T18/SnackNTrack).
 
