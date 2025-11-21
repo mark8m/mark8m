@@ -11,7 +11,7 @@
 </div>
 
 ### 🧑‍💻 About Me:
-I am a Computer Science student at the University of Alberta!
+I am a Computer Science student at the University of Alberta, graduating in April 2026!
 - :telescope: I work on various software development, as well as full-stack web development.
 
 - :seedling: Currently learning Natural Language Processing!
