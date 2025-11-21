@@ -16,9 +16,9 @@ I am a Computer Science student at the University of Alberta!
 
 - :seedling: Currently learning Natural Language Processing!
 
-- 🏳️‍🌈🏳️‍⚧️ I am proud to been part a three-term exec at [Ada's Team](https://adasteam.ca), a student org dedicated to promoting diversity in the tech sector!
-
 - :zap: I am looking for 2025 new-grad roles in Software Development, Full-Stack Development, and Data Analysis!
+
+- 🏳️‍🌈🏳️‍⚧️ I am proud to be a three-term exec at [Ada's Team](https://adasteam.ca), a student org dedicated to promoting diversity in the tech sector!
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-maligalig/) [![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maligali@ualberta.ca)
 
