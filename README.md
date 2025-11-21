@@ -14,17 +14,13 @@
 I am a Computer Science student at the University of Alberta!
 - :telescope: I work on various software development, as well as full-stack web development.
 
-- :seedling: Currently learning Machine Learning!
+- :seedling: Currently learning Natural Language Processing!
 
-- 🏳️‍🌈🏳️‍⚧️ I am proud to be the President of [Ada's Team](https://adasteam.ca), a student org dedicated to promoting diversity in the tech sector!
+- 🏳️‍🌈🏳️‍⚧️ I am proud to been part a three-term exec at [Ada's Team](https://adasteam.ca), a student org dedicated to promoting diversity in the tech sector!
 
-- :zap: I am looking for 2024 internships in Software Development, Data Analysis, and Web Dev!
+- :zap: I am looking for 2025 new-grad roles in Software Development, Full-Stack Development, and Data Analysis!
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-maligalig/) [![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maligali@ualberta.ca)
-
-- ✨ In a group of five in Fall 2023, we created a _social media website_! While the deployed site is no longer running, you can watch a video demo [here](https://www.youtube.com/watch?v=sPBAbwMJKl8) and check the repo [here](https://github.com/uofa-cmput404/404f23project-ctrl-alt-defeat).
-
-- ✨ In a group of six in Fall 2022, we created a _meal planning app_! You check the repo [here](https://github.com/CMPUT301F22T18/SnackNTrack).
 
 <!--
 **mark8m/mark8m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
